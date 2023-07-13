@@ -10,7 +10,7 @@ import dash_bootstrap_components as dbc
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 
-WUR = pd.read_csv(os.path.join('/Users/minhphuc/Desktop/Python/WUR.csv'), delimiter=';', index_col=False)
+WUR = pd.read_csv(os.path.join('WUR.csv'), delimiter=';', index_col=False)
 dropdown_options = [{'label': region, 'value': region} for region in WUR['region'].unique()]
 # Replace commas with empty string in 'international_students' column
 WUR['international_students'] = WUR['international_students'].str.replace(',', '')
