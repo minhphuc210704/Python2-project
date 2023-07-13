@@ -8,6 +8,7 @@ import os
 import dash_bootstrap_components as dbc
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 
 WUR = pd.read_csv(os.path.join('WUR.csv'), delimiter=';', index_col=False)
