@@ -1,0 +1,400 @@
+university;year;rank_display;score;country;city;region;type;research_output;student_faculty_ratio;international_students;size;faculty_count
+Massachusetts Institute of Technology (MIT) ;2017;1;100.0;United States;Cambridge;North America;Private;Very High;4.0;3,730;M;3,065
+Stanford University;2017;2;98.7;United States;Stanford;North America;Private;Very High;3.0;3,879;L;4,725
+Harvard University;2017;3;98.3;United States;Cambridge;North America;Private;Very High;5.0;5,877;L;4,646
+University of Cambridge;2017;4;97.2;United Kingdom;Cambridge;Europe;Public;Very high;4.0;7,925;L;5,800
+California Institute of Technology (Caltech);2017;5;96.9;United States;Pasadena;North America;Private;Very High;2.0;692;S;968
+University of Oxford;2017;6;96.8;United Kingdom;Oxford;Europe;Public;Very High;3.0;8,442;L;6,708
+UCL;2017;7;95.6;United Kingdom;London;Europe;Public;Very High;5.0;21,824;XL;7,195
+ETH Zurich - Swiss Federal Institute of Technology;2017;8;94.2;Switzerland;Zürich;Europe;Public;Very High;7.0;7,733;L;2,719
+Imperial College London;2017;9;94.1;United Kingdom;London;Europe;Public;Very High;5.0;11,143;L;8,000
+University of Chicago;2017;10;93.0;United States;Chicago;North America;Private;Very High;6.0;4,696;L;2,703
+Princeton University;2017;11;92.8;United States;Princeton;North America;Private;Very High;8.0;1,912;M;1,050
+National University of Singapore (NUS);2017;12;91.5;Singapore;Singapore;Asia;Public;Very High;7.0;7,551;XL;4,288
+Nanyang Technological University, Singapore (NTU);2017;13;91.4;Singapore;Singapore;Asia;Public;Very High;6.0;6,091;L;3,812
+EPFL;2017;14;91.1;Switzerland;Lausanne;Europe;Public;Very High;6.0;6,426;M;1,767
+Yale University;2017;15;90.9;United States;New Haven;North America;Private;Very High;2.0;2,537;M;5,391
+Cornell University;2017;16;90.1;United States;Ithaca;North America;Private;Very High;8.0;5,675;L;2,843
+Johns Hopkins University;2017;17;89.3;United States;Baltimore;North America;Private;Very High;3.0;5,070;L;4,855
+University of Pennsylvania;2017;18;89.0;United States;Philadelphia;North America;Private;Very High;4.0;4,636;L;5,154
+The University of Edinburgh;2017;19;88.9;United Kingdom;Edinburgh;Europe;Public;Very High;7.0;14,637;XL;4,832
+Columbia University;2017;20;88.6;United States;New York City;North America;Private;Very High;4.0;11,252;L;7,087
+King's College London;2017;21;87.7;United Kingdom;London;Europe;Public;Very High;7.0;15,075;L;4,216
+The Australian National University;2017;22;87.3;Australia;Canberra;Oceania;Public;Very High;9.0;6,496;L;1,763
+University of Michigan-Ann Arbor;2017;23;86.4;United States;Ann Arbor;North America;Public;Very High;6.0;7,341;XL;7,132
+Tsinghua University;2017;24;86.0;China (Mainland);Beijing;Asia;Public;Very High;6.0;5,420;XL;6,174
+Duke University;2017;24;86.0;United States;Durham;North America;Private;Very High;3.0;3,445;L;5,673
+Northwestern University;2017;26;85.7;United States;Evanston;North America;Private;Very High;5.0;3,846;L;3,652
+The University of Hong Kong;2017;27;85.4;Hong Kong SAR;Hong Kong;Asia;Public;Very High;7.0;8,311;L;2,944
+University of California, Berkeley (UCB);2017;28;85.2;United States;Berkeley;North America;Public;Very High;11.0;9,428;XL;3,701
+The University of Manchester;2017;29;84.8;United Kingdom;Manchester;Europe;Public;Very High;8.0;16,079;XL;4,889
+McGill University;2017;30;84.1;Canada;Montreal;North America;Public;Very High;7.0;10,827;L;3,876
+University of California, Los Angeles (UCLA);2017;31;84.0;United States;Los Angeles;North America;Public;Very High;10.0;6,140;XL;4,487
+University of Toronto;2017;32;83.8;Canada;Toronto;North America;Public;Very high;8.0;27,536;XL;9,881
+Ecole normale supérieure, Paris;2017;33;79.9;France;Paris;Europe;Public;Very High;11.0;374;S;178
+The University of Tokyo;2017;34;82.6;Japan;Tokyo;Asia;Public;Very High;6.0;3,983;L;4,473
+Seoul National University;2017;35;82.1;South Korea;Seoul;Asia;Public;Very High;7.0;1,914;L;3,859
+The Hong Kong University of Science and Technology;2017;36;81.8;Hong Kong SAR;Hong Kong;Asia;Public;Very High;8.0;3,033;M;697
+Kyoto University;2017;37;81.7;Japan;Kyoto;Asia;Public;Very High;6.0;2,863;L;3,911
+The London School of Economics and Political Science (LSE);2017;37;81.7;United Kingdom;London;Europe;Public;Very High;10.0;8,274;M;1,172
+Peking University;2017;39;81.3;China (Mainland);Beijing;Asia;Public;Very High;6.0;5,436;XL;5,302
+University of California, San Diego (UCSD);2017;40;80.6;United States;San Diego;North America;Public;Very High;8.0;8,567;XL;4,545
+University of Bristol;2017;41;79.6;United Kingdom;Bristol;Europe;Public;Very High;8.0;7,483;L;20,311
+The University of Melbourne;2017;42;79.5;Australia;Parkville;Oceania;Public;Very high;19.0;21,406;S;4,835
+Fudan University;2017;43;79.4;China (Mainland);Shanghai;Asia;Public;Very High;6.0;5,322;L;4,526
+The Chinese University of Hong Kong (CUHK);2017;44;78.1;Hong Kong SAR;Hong Kong;Asia;Public;Very High;8.0;6,062;L;2,201
+University of British Columbia;2017;45;78.0;Canada;Vancouver;North America;Public;Very High;9.0;15,399;XL;6,201
+The University of Sydney;2017;46;77.9;Australia;Sydney;Oceania;Public;Very High;13.0;25,940;XL;3,571
+New York University (NYU);2017;46;77.9;United States;New York City;North America;Private;Very High;6.0;16,218;XL;7,874
+KAIST - Korea Advanced Institute of Science & Technology;2017;46;77.9;South Korea;Daejeon;Asia;Public;Very High;8.0;869;M;1,307
+The University of New South Wales (UNSW Sydney);2017;49;77.8;Australia;Sydney;Oceania;Public;Very High;14.0;21,603;XL;3,219
+Brown University;2017;49;77.8;United States;Providence;North America;Private;Very High;7.0;2,002;M;1,389
+The University of Queensland;2017;51;77.6;Australia;Brisbane;Oceania;Public;Very High;12.0;22,241;XL;3,513
+The University of Warwick;2017;51;77.6;United Kingdom;Coventry;Europe;Public;Very High;9.0;10,459;L;2,634
+University of Wisconsin-Madison;2017;53;75.7;United States;Madison;North America;Public;Very High;8.0;5,737;XL;5,166
+Ecole Polytechnique;2017;53;69.9;France;Palaiseau;Europe;Public;Very High;5.0;1,248;S;633
+City University of Hong Kong;2017;55;75.4;Hong Kong SAR;Hong Kong;Asia;Public;Very High;6.0;5,331;M;1,483
+Tokyo Institute of Technology (Tokyo Tech);2017;56;74.9;Japan;Tokyo;Asia;Public;Very High;7.0;1,622;M;1,492
+University of Amsterdam;2017;57;74.3;Netherlands;Amsterdam;Europe;Public;Very High;11.0;7,969;XL;6,000
+Carnegie Mellon University;2017;58;74.2;United States;Pittsburgh;North America;Private;Very High;9.0;5,739;L;1,534
+University of Washington;2017;59;73.9;United States;Seattle;North America;Public;Very High;15.0;7,362;XL;2,796
+Technical University of Munich;2017;60;72.4;Germany;Munich;Europe;Public;Very High;5.0;11,447;XL;6,663
+Shanghai Jiao Tong University;2017;61;72.2;China (Mainland);Shanghai;Asia;Public;Very High;9.0;6,371;XL;4,386
+Delft University of Technology;2017;62;72.1;Netherlands;Delft;Europe;Public;Very High;10.0;6,104;L;2,041
+Osaka University;2017;63;71.7;Japan;Osaka City;Asia;Public;Very High;7.0;2,268;L;3,127
+University of Glasgow;2017;63;71.7;United Kingdom;Glasgow;Europe;Public;Very High;9.0;11,065;L;3,314
+Monash University;2017;65;71.6;Australia;Melbourne;Oceania;Public;Very High;15.0;31,049;XL;3,852
+University of Illinois at Urbana-Champaign;2017;66;71.4;United States;Champaign;North America;Public;Very High;17.0;9,987;XL;2,748
+University of Texas at Austin;2017;67;70.7;United States;Austin;North America;Public;Very High;17.0;4,953;XL;2,887
+Ludwig-Maximilians-Universität München;2017;68;70.2;Germany;Munich;Europe;Public;Very High;9.0;5,958;XL;3,914
+National Taiwan University (NTU);2017;68;70.2;Taiwan;Taipei City;Asia;Public;Very High;10.0;5,058;L;2,939
+University of Copenhagen;2017;68;70.2;Denmark;Copenhagen;Europe;Public;Very High;4.0;4,135;XL;7,293
+Georgia Institute of Technology;2017;71;69.8;United States;Atlanta;North America;Public;Very High;19.0;5,675;L;1,267
+Ruprecht-Karls-Universität Heidelberg;2017;72;69.7;Germany;Heidelberg;Europe;Public;Very High;5.0;4,048;L;4,100
+Lund University;2017;73;69.1;Sweden;Lund;Europe;Public;Very High;9.0;6,682;L;3,040
+Durham University;2017;74;68.8;United Kingdom;Durham;Europe;Public;Very High;11.0;6,174;L;1,775
+Tohoku University;2017;75;68.7;Japan;Sendai City;Asia;Public;Very High;5.0;1,872;L;3,323
+University of Nottingham;2017;75;68.7;United Kingdom;Nottingham;Europe;Public;Very High;10.0;9,659;XL;3,386
+University of St Andrews;2017;77;68.2;United Kingdom;St. Andrews;Europe;Public;Very High;8.0;4,377;M;1,208
+University of North Carolina, Chapel Hill;2017;78;68.1;United States;Chapel Hill;North America;Public;Very High;7.0;2,749;XL;4,646
+KU Leuven;2017;79;67.9;Belgium;Leuven;Europe;Public;Very High;18.0;8,485;XL;2,677
+University of Zurich;2017;80;67.8;Switzerland;Zürich;Europe;Public;Very High;6.0;5,044;L;3,761
+The University of Auckland;2017;81;67.3;New Zealand;Auckland;Oceania;Public;Very High;12.0;9,924;L;2,316
+University of Birmingham;2017;82;67.2;United Kingdom;Birmingham;Europe;Public;Very High;9.0;10,457;XL;3,586
+Pohang University of Science And Technology (POSTECH);2017;83;67.0;South Korea;Pohang ;Asia;Private;Very High;4.0;87;S;743
+The University of Sheffield;2017;84;66.9;United Kingdom;Sheffield;Europe;Public;Very High;8.0;11,090;L;3,463
+Universidad de Buenos Aires (UBA);2017;85;65.8;Argentina;Buenos Aires;Latin America;Public;Very High;7.0;29,516;XL;16,103
+University of California, Davis;2017;85;65.8;United States;Davis;North America;Public;Very High;10.0;8,414;XL;3,420
+University of Southampton;2017;87;65.6;United Kingdom;Southampton;Europe;Public;Very High;9.0;8,417;L;2,468
+The Ohio State University;2017;88;65.4;United States;Columbus;North America;Public;Very High;9.0;7,029;XL;6,388
+Boston University;2017;89;65.2;United States;Boston;North America;Private;Very High;10.0;8,159;L;2,642
+Rice University;2017;90;65.0;United States;Houston;North America;Private;Very High;7.0;2,278;M;996
+University of Helsinki;2017;91;64.7;Finland;Helsinki;Europe;Public;Very High;8.0;1,254;L;2,855
+Purdue University;2017;92;64.5;United States;West Lafayette;North America;Public;Very High;15.0;8,034;XL;2,622
+University of Leeds;2017;93;64.2;United Kingdom;Leeds;Europe;Public;Very High;10.0;11,584;XL;3,593
+University of Alberta;2017;94;64.0;Canada;Edmonton;North America;Public;Very High;9.0;9,689;XL;3,645
+Pennsylvania State University;2017;95;63.6;United States;University Park;North America;Public;Very High;11.0;6,943;XL;4,207
+University of Geneva;2017;95;63.6;Switzerland;Geneva;Europe;Public;Very High;9.0;6,547;L;1,814
+KTH Royal Institute of Technology ;2017;97;63.1;Sweden;Stockholm;Europe;Public;Very High;8.0;3,057;L;3,600
+Uppsala University;2017;98;62.8;Sweden;Uppsala;Europe;Public;Very High;10.0;8,401;L;2,843
+Korea University;2017;98;62.8;South Korea;Seoul;Asia;Private;Very High;6.0;3,325;L;4,026
+Trinity College Dublin, The University of Dublin;2017;98;62.8;Ireland;Dublin;Europe;Public;Very High;12.0;5,593;L;1,383
+KIT, Karlsruhe Institute of Technology;2017;98;62.8;Germany;Karlsruhe;Europe;Public;Very High;10.0;5,030;L;2,080
+Leiden University;2017;102;62.7;Netherlands;Leiden;Europe;Public;Very High;12.0;6,064;XL;2,069
+The University of Western Australia;2017;102;62.7;Australia;Perth;Oceania;Public;Very High;12.0;9,017;L;1,539
+Utrecht University;2017;104;62.4;Netherlands;Utrecht;Europe;Public;Very High;10.0;4,454;XL;3,254
+University of Science and Technology of China;2017;104;62.4;China (Mainland);Hefei;Asia;Public;Very High;7.0;1,019;L;2,708
+Sungkyunkwan University(SKKU);2017;106;61.5;South Korea;Suwon;Asia;Private;Very High;7.0;3,821;L;3,313
+Washington University in St. Louis;2017;106;62.2;United States;St. Louis;North America;Private;Very High;5.0;3,535;L;3,193
+Lomonosov Moscow State University;2017;108;62.1;Russia;Moscow;Europe;Public;Very High;5.0;5,476;XL;6,575
+Technical University of Denmark;2017;109;61.8;Denmark;Kongens Lyngby;Europe;Public;Very High;4.0;2,495;M;2,219
+Zhejiang University;2017;110;61.6;China (Mainland);Hangzhou;Asia;Public;Very High;7.0;9,177;XL;6,065
+The Hong Kong Polytechnic University;2017;111;61.4;Hong Kong SAR;Hong Kong;Asia;Public;Very High;7.0;5,774;L;2,822
+Yonsei University;2017;112;60.5;South Korea;Seoul;Asia;Private;Very High;6.0;4,274;L;3,605
+University of Oslo;2017;113;60.0;Norway;Oslo;Europe;Public;Very High;7.0;2,560;L;2,600
+University of Groningen;2017;113;60.0;Netherlands;Groningen;Europe;Public;Very High;8.0;9,397;XL;3,724
+Nanjing University;2017;115;59.6;China (Mainland);Nanjing;Asia;Public;Very High;11.0;2,513;XL;3,040
+Nagoya University;2017;115;59.6;Japan;Nagoya;Asia;Public;Very High;6.0;1,879;L;2,512
+Aarhus University;2017;117;59.5;Denmark;;Europe;Public;Very High;11.0;2,911;L;683
+University of California, Santa Barbara (UCSB);2017;118;59.4;United States;Santa Barbara;North America;Public;Very High;16.0;4,309;L;1,597
+Wageningen University & Research;2017;119;59.1;Netherlands;Wageningen;Europe;Public;Very High;5.0;4,131;L;2,767
+Universidade de São Paulo;2017;120;59.0;Brazil;São Paulo;Latin America;Public;Very High;13.0;1,858;XL;4,943
+Humboldt-Universität zu Berlin;2017;121;58.9;Germany;Berlin;Europe;Public;Very High;17.0;5,239;XL;1,967
+Eindhoven University of Technology;2017;121;58.9;Netherlands;Eindhoven;Europe;Public;Very High;9.0;1,872;M;1,145
+Freie Universitaet Berlin;2017;123;58.7;Germany;Berlin;Europe;Public;Very High;25.0;6,659;XL;1,389
+Queen Mary University of London;2017;123;58.7;United Kingdom;London;Europe;Public;Very High;9.0;8,625;L;2,119
+The University of Adelaide;2017;125;58.6;Australia;Adelaide;Oceania;Public;Very High;13.0;10,107;L;1,757
+Université de Montréal ;2017;126;58.5;Canada;Montreal;North America;Public;Very High;7.0;7,625;XL;5,533
+University of York;2017;127;58.4;United Kingdom;York;Europe;Public;Very High;9.0;5,098;L;2,209
+Universidad Nacional Autónoma de México  (UNAM);2017;128;58.3;Mexico;Mexico City;Latin America;Public;Very High;9.0;5,110;XL;16,381
+Lancaster University;2017;129;57.9;United Kingdom;Lancaster;Europe;Public;Very High;10.0;5,557;L;1,440
+Hokkaido University;2017;130;57.8;Japan;Sapporo;Asia;Public;Very High;7.0;1,984;L;2,476
+Ghent University;2017;131;57.6;Belgium;Ghent;Europe;Public;Very High;7.0;4,609;XL;5,537
+University of Maryland, College Park;2017;131;57.6;United States;College Park;North America;Public;Very High;10.0;4,659;XL;3,798
+Universiti Malaya (UM);2017;133;57.1;Malaysia;Kuala Lumpur;Asia;Public;Very High;8.0;3,340;L;2,386
+Aalto University;2017;133;57.1;Finland;Espoo;Europe;Public;Very High;9.0;2,202;L;1,396
+Kyushu University;2017;135;56.8;Japan;Fukuoka City;Asia;Public;Very High;7.0;2,125;L;2,761
+University of Southern California;2017;136;56.7;United States;Los Angeles;North America;Private;Very High;10.0;9,107;XL;3,116
+University of Minnesota Twin Cities;2017;137;56.4;United States;Minneapolis;North America;Public;Very High;11.0;5,630;XL;5,087
+University of Lausanne;2017;138;56.3;Switzerland;Lausanne;Europe;Public;Very High;9.0;3,026;L;1,478
+Chalmers University of Technology;2017;139;56.1;Sweden;Gothenburg;Europe;Private;Very High;8.0;2,502;M;2,500
+Cardiff University;2017;140;55.7;United Kingdom;Cardiff;Europe;Public;Very High;9.0;7,819;L;3,350
+Université Pierre et Marie Curie (UPMC);2017;141;57.5;France;Paris;Europe;Public;Very High;9.0;8,782;XL;4,680
+University of Basel;2017;141;55.6;Switzerland;Basel;Europe;Public;Very High;9.0;2,875;M;1,036
+University of Aberdeen;2017;141;55.6;United Kingdom;Aberdeen;Europe;Public;Very High;11.0;5,544;L;1,175
+Erasmus University Rotterdam ;2017;144;55.5;Netherlands;Rotterdam;Europe;Public;Very High;11.0;5,932;L;2,699
+University of Pittsburgh;2017;145;55.1;United States;Pittsburgh;North America;Public;Very High;6.0;2,590;L;4,746
+RWTH Aachen University;2017;146;55.0;Germany;Aachen;Europe;Public;Very High;19.0;12,477;XL;2,431
+Pontificia Universidad Católica de Chile (UC);2017;147;54.7;Chile;Santiago;Latin America;Private;Very High;12.0;1,072;L;2,343
+The Hebrew University of Jerusalem;2017;148;54.2;Israel;Jerusalem;Asia;Public;Very High;7.0;1,176;L;2,295
+McMaster University;2017;149;54.1;Canada;Hamilton;North America;Public;Very High;7.0;5,386;L;3,819
+Emory University;2017;149;54.1;United States;Atlanta;North America;Private;Very High;5.0;2,264;L;2,725
+National Tsing Hua University;2017;151;53.9;Taiwan;Hsinchu City;Asia;Public;Very High;10.0;1,551;L;1,265
+University of Waterloo;2017;152;53.8;Canada;Waterloo;North America;Public;Very High;18.0;10,269;XL;1,908
+Indian Institute of Science;2017;152;53.8;India;Bangalore;Asia;Public;Very High;9.0;5;S;446
+Université catholique de Louvain (UCLouvain);2017;154;53.4;Belgium;Louvain-la-Neuve;Europe;Private;Very High;19.0;4,524;L;1,315
+University of Vienna;2017;155;53.3;Austria;Vienna;Europe;Public;Very High;12.0;14,514;XL;3,637
+University of California, Irvine;2017;156;53.2;United States;Irvine;North America;Public;Very High;13.0;9,323;XL;2,775
+University of Liverpool;2017;157;53.1;United Kingdom;Liverpool;Europe;Public;Very High;10.0;9,500;L;2,771
+Dartmouth College;2017;158;53.0;United States;Hanover;North America;Private;Very High;8.0;997;M;836
+University of Bath;2017;159;52.7;United Kingdom;Bath;Europe;Public;Very High;12.0;5,326;L;1,339
+Universitat de Barcelona;2017;160;52.6;Spain;Barcelona;Europe;Public;Very High;15.0;6,979;XL;3,002
+Texas A&M University;2017;160;52.6;United States;Galveston;North America;Public;Very High;21.0;6,621;XL;3,049
+Michigan State University;2017;160;52.6;United States;East Lansing;North America;Public;Very High;15.0;5,795;XL;3,008
+Albert-Ludwigs-Universitaet Freiburg;2017;163;52.2;Germany;Freiburg im Breisgau;Europe;Public;Very High;11.0;3,883;L;1,993
+Technische Universität Berlin (TU Berlin);2017;164;52.1;Germany;Berlin;Europe;Public;Very High;10.0;6,464;L;2,331
+The University of Exeter;2017;164;52.1;United Kingdom;Exeter;Europe;Public;Very High;10.0;7,188;L;2,393
+CentraleSupélec;2017;164;52.3;France;Saint-Aubin;Europe;Public;Very High;10.0;1,068;S;552
+Eberhard Karls Universität Tübingen;2017;167;51.9;Germany;Tübingen;Europe;Public;Very High;5.0;2,872;L;4,517
+Newcastle University;2017;168;51.8;United Kingdom;Newcastle upon Tyne;Europe;Public;Very High;10.0;8,100;L;2,766
+University of Otago;2017;169;51.3;New Zealand;Dunedin;Oceania;Public;Very High;14.0;3,585;L;1,333
+University of Colorado Boulder;2017;170;51.2;United States;Boulder;North America;Public;Very High;11.0;2,441;XL;2,946
+Hanyang University;2017;171;50.6;South Korea;Seoul;Asia;Private;Very High;7.0;3,455;L;3,164
+University of Virginia;2017;172;50.5;United States;Charlottesville;North America;Public;Very High;8.0;2,201;L;2,731
+Maastricht University ;2017;173;50.3;Netherlands;Maastricht;Europe;Public;Very High;13.0;10,425;L;1,418
+National Chiao Tung University;2017;174;38.2;Taiwan;Hsinchu City;Asia;Public;Very High;10.0;1,420;M;1,152
+University of Reading;2017;175;50.0;United Kingdom;Reading;Europe;Public;Very High;12.0;5,007;L;1,325
+University College Dublin;2017;176;49.7;Ireland;Dublin;Europe;Public;Very High;12.0;6,118;L;1,836
+University of Göttingen;2017;177;49.6;Germany;Göttingen;Europe;Public;Very High;8.0;3,875;XL;3,717
+École Normale Supérieure de Lyon;2017;177;49.6;France;Lyon;Europe;Public;Very High;5.0;233;S;387
+University of Bergen;2017;177;49.6;Norway;Bergen;Europe;Public;Very High;7.0;832;M;1,634
+University of Twente;2017;177;49.6;Netherlands;Enschede;Europe;Public;Very High;10.0;3,872;L;1,177
+University of Bern;2017;181;49.3;Switzerland;Bern;Europe;Public;Very High;8.0;1,776;M;1,212
+Vrije Universiteit Brussel (VUB);2017;182;48.9;Belgium;Brussels;Europe;Public;Very High;7.0;2,994;L;1,815
+Politecnico di Milano;2017;183;48.8;Italy;Milan;Europe;Public;Very High;21.0;7,452;XL;1,659
+Technische Universität Wien;2017;183;48.8;Austria;Vienna;Europe;Public;Very High;11.0;2,515;M;761
+University of Florida;2017;185;48.6;United States;Gainesville;North America;Public;Very High;7.0;4,143;XL;6,222
+University of Rochester;2017;185;48.6;United States;Rochester;North America;Private;Very High;5.0;3,644;M;1,853
+Indian Institute of Technology Delhi (IITD);2017;185;48.6;India;New Delhi;Asia;Public;Very High;11.0;100;M;843
+University of Illinois at Chicago (UIC);2017;187;48.4;United States;Chicago;North America;Public;Very High;10.0;3,425;L;2,808
+University of Sussex;2017;187;48.4;United Kingdom;Brighton;Europe;Public;Very High;14.0;6,350;L;1,320
+King Fahd University of Petroleum & Minerals;2017;189;48.3;Saudi Arabia;Dhahran;Asia;Public;Very High;7.0;782;M;1,103
+Radboud University ;2017;190;48.2;Netherlands;Nijmegen;Europe;Public;Very High;11.0;2,781;L;2,074
+Universidade Estadual de Campinas (Unicamp);2017;191;48.0;Brazil;Campinas;Latin America;Public;Very High;15.0;944;L;1,875
+University of Cape Town;2017;191;48.0;South Africa;Cape Town;Africa;Public;Very High;14.0;3,204;L;1,503
+University of Technology Sydney;2017;193;47.8;Australia;Haymarket;Oceania;Public;Very High;16.0;8,653;L;2,183
+Queen's University Belfast;2017;195;47.5;United Kingdom;Stony Brook;Europe;Public;Very High;10.0;7,397;L;1,951
+Stockholm University;2017;196;47.2;Sweden;Stockholm;Europe;Public;Very High;12.0;7,567;L;2,325
+University of Calgary;2017;196;47.2;Canada;Calgary;North America;Public;Very High;12.0;6,791;XL;2,668
+Western University;2017;198;47.1;Canada;London;North America;Public;Very High;22.0;6,314;L;1,311
+Vrije Universiteit Amsterdam;2017;199;46.8;Netherlands;Amsterdam;Europe;Public;Very High;10.0;4,059;L;2,598
+Universidad de Chile;2017;200;46.7;Chile;Santiago;Latin America;Public;Very High;15.0;1,697;XL;2,412
+Waseda University;2017;201;46.5;Japan;Tokyo;Asia;Private;Very High;11.0;7,209;XL;3,833
+Case Western Reserve University;2017;202;46.4;United States;Cleveland;North America;Private;Very High;7.0;2,864;M;1,639
+Universitat Autònoma de Barcelona;2017;203;46.3;Spain;Barcelona;Europe;Public;Very High;15.0;4,069;XL;2,132
+Vanderbilt University;2017;203;46.3;United States;Nashville;North America;Private;Very High;3.0;2,022;L;4,473
+University of Notre Dame;2017;203;46.3;United States;Notre Dame;North America;Private;Very High;8.0;1,484;L;1,545
+Université Grenoble Alpes;2017;206;46.1;France;Grenoble;Europe;Public;Very High;17.0;8,880;XL;3,088
+Tecnológico de Monterrey;2017;206;46.1;Mexico;Monterrey;Latin America;Private;High;8.0;3,514;XL;5,894
+Alma Mater Studiorum - University of Bologna;2017;208;46.0;Italy;Bologna;Europe;Public;Very High;24.0;5,536;XL;2,885
+University of Antwerp;2017;209;45.8;Belgium;Antwerp;Europe;Public;Very High;9.0;2,688;L;1,704
+Universidad Autónoma de Madrid;2017;210;45.7;Spain;Madrid;Europe;Public;Very High;10.0;2,470;L;2,869
+Technische Universität Dresden;2017;210;45.7;Germany;Dresden;Europe;Public;Very High;7.0;5,167;XL;4,636
+Tel Aviv University;2017;212;45.6;Israel;Tel Aviv;Asia;Public;Very High;22.0;1,294;L;1,048
+Technion - Israel Institute of Technology;2017;213;45.5;Israel;Haifa;Asia;Public;Very High;8.0;526;L;1.616
+University of Canterbury;2017;214;40.0;New Zealand;Christchurch;Oceania;Public;Very High;17.0;2,816;L;0
+Georgetown University;2017;214;45.4;United States;Washington D.C.;North America;Private;Very High;8.0;3,286;L;2,009
+Keio University;2017;216;45.1;Japan;Tokyo;Asia;Private;Very High;8.0;3,101;XL;4,028
+Universite libre de Bruxelles;2017;216;45.1;Belgium;Brussels;Europe;Public;Very High;23.0;8,073;L;1,101
+University of Wollongong;2017;218;44.7;Australia;Wollongong;Oceania;Public;Very High;13.0;4,779;L;1,410
+Indian Institute of Technology Bombay (IITB);2017;219;44.6;India;Mumbai;Asia;Public;Very High;11.0;116;M;1,015
+Sciences Po ;2017;220;38.1;France;Paris;Europe;Public;Very High;6.0;4,841;M;1,808
+Université Paris-Sorbonne (Paris IV);2017;221;37.9;France;Paris;Europe;Public;Very High;9.0;8,782;XL;4,680
+Arizona State University;2017;222;44.2;United States;Phoenix;North America;Public;Very High;17.0;8,430;XL;2,869
+Sapienza University of Rome;2017;223;44.0;Italy;Rome;Europe;Public;Very High;23.0;5,960;XL;3,287
+Queen's University at Kingston;2017;223;44.0;Canada;Kingston;North America;Public;Very High;19.0;3,858;L;1,287
+University of Tsukuba;2017;225;43.8;Japan;Tsukuba City;Asia;Public;Very High;8.0;2,358;L;2,073
+Simon Fraser University;2017;226;43.6;Canada;Burnaby;North America;Public;Very High;21.0;8,051;L;1,193
+King Saud University;2017;227;43.4;Saudi Arabia;Riyadh;Asia;Public;Very High;9.0;3,896;XL;4,216
+Université Paris 1 Panthéon-Sorbonne;2017;228;43.3;France;Paris;Europe;Public;Very High;21.0;7,257;XL;1,679
+Victoria University of Wellington;2017;228;43.3;New Zealand;Kelburn, Wellington;Oceania;Public;Very High;16.0;3,668;L;1,124
+American University of Beirut (AUB);2017;228;43.3;Lebanon;Beirut ;Asia;Private;Very High;8.0;1,724;M;964
+Rheinische Friedrich-Wilhelms-Universität Bonn;2017;231;43.0;Germany;Bonn;Europe;Public;Very High;5.0;3,276;L;4,207
+Universität Hamburg;2017;232;42.9;Germany;Hamburg;Europe;Public;Very High;14.0;3,626;L;2,032
+The University of Arizona;2017;233;42.8;United States;Tucson;North America;Public;Very High;6.0;3,526;XL;5,724
+University of Turku;2017;234;42.7;Finland;Turku;Europe;Public;Very High;8.0;604;L;1,505
+Royal Holloway University of London;2017;235;42.6;United Kingdom;Egham;Europe;Public;Very High;13.0;3.705;M;831
+Al-Farabi Kazakh National University;2017;236;42.5;Kazakhstan;Almaty;Asia;Public;High;6.0;3,054;L;4,047
+Loughborough University;2017;237;42.3;United Kingdom;Loughborough;Europe;Public;Very High;12.0;4,540;L;1,445
+Tufts University;2017;238;42.2;United States;Medford;North America;Private;Very High;8.0;1,798;M;1,459
+Complutense University of Madrid;2017;239;42.1;Spain;Madrid;Europe;Public;Very High;13.0;7,295;XL;4,778
+University of Leicester;2017;239;42.1;United Kingdom;Leicester;Europe;Public;Very High;10.0;4,919;L;1,518
+National Cheng Kung University (NCKU);2017;241;42.0;Taiwan;Tainan City;Asia;Public;Very High;10.0;2,656;L;2,079
+Université Paris-Saclay;2017;241;42.0;France;;Europe;Public;Very High;5.0;7,649;XL;8,010
+National Taiwan University of Science and Technology (Taiwan Tech);2017;243;41.7;Taiwan;Taipei City;Asia;Public;Very High;9.0;1,537;M;1,005
+ University of Dundee;2017;244;41.6;United Kingdom;Dundee;Europe;Public;High;14.0;3,025;L;953
+The University of Newcastle, Australia (UON);2017;245;41.3;Australia;Callaghan;Oceania;Public;Very High;11.0;1,747;L;1,135
+University of Navarra;2017;245;41.3;Spain;Pamplona;Europe;Private;Very High;9.0;2,978;M;1,175
+Macquarie University;2017;247;41.2;Australia;Sydney;Oceania;Public;Very High;14.0;8,621;L;1,766
+Technical University of Darmstadt;2017;247;41.2;Germany;Darmstadt;Europe;Public;Very High;20.0;3,979;L;804
+Indian Institute of Technology Madras (IITM);2017;249;41.0;India;Chennai;Asia;Public;Very High;11.0;94;M;884
+National University of Ireland Galway;2017;249;41.0;Ireland;Galway;Europe;Public;High;8.0;3,208;L;1,835
+University of Massachusetts Amherst;2017;251;40.8;United States;Amherst;North America;Public;Very High;14.0;3,696;L;1,852
+Chulalongkorn University;2017;252;40.6;Thailand;Bangkok;Asia;Public;High;10.0;985;XL;3,354
+RMIT University;2017;252;40.6;Australia;Melbourne;Oceania;Public;Very High;18.0;11,743;XL;1,859
+SOAS University of London ;2017;252;40.6;United Kingdom;London;Europe;Public;Very High;11.0;2.398;S;300
+University of East Anglia (UEA);2017;252;40.6;United Kingdom;Norwich;Europe;Public;Very High;13.0;3,541;L;1,206
+University of Miami;2017;252;40.6;United States;Miami;North America;Private;Very High;6.0;2,646;L;2,565
+Beijing Normal University ;2017;257;40.4;China (Mainland);Beijing;Asia;Public;Very High;11.0;3,288;L;2,098
+Saint Petersburg State University;2017;258;40.1;Russia;Saint Petersburg;Europe;Public;Very High;8.0;4,982;L;3,054
+Norwegian University of Science And Technology;2017;259;39.8;Norway;Trondheim;Europe;Public;Very High;12.0;2.950;XL;3.132
+Université de Strasbourg;2017;260;39.6;France;Strasbourg;Europe;Public;Very High;21.0;9.111;XL;2.544
+University of Surrey;2017;261;39.5;United Kingdom;Guildford;Europe;Public;Very High;13.0;5,556;L;1,221
+Université Diderot  Paris 7;2017;262;34.7;France;Paris;Europe;Public;Very High;17.0;11,387;XL;3,755
+Universität Stuttgart;2017;263;39.3;Germany;Stuttgart;Europe;Public;Very High;17.0;3.028;L;932
+Goethe-University Frankfurt am Main;2017;264;39.2;Germany;Frankfurt;Europe;Public;Very High;12.0;6.749;XL;3.623
+University of Gothenburg;2017;264;39.2;Sweden;Gothenburg;Europe;Public;Very High;8.0;5,652;L;2,680
+Kyung Hee University;2017;264;39.2;South Korea;;Asia;Private;Very High;7.0;4,715;L;3,435
+ENS Paris-Saclay;2017;264;34.6;France;Cachan;Europe;Public;Very High;6.0;298;S;289
+Ecole des Ponts ParisTech;2017;268;39.1;France;Paris;Europe;Public;Very High;6.0;735;S;338
+Universidad Nacional de Colombia;2017;269;38.9;Colombia;Bogotá;Latin America;Public;High;14.0;335;XL;3,055
+Universiti Putra Malaysia (UPM);2017;270;38.8;Malaysia;Seri Kembangan;Asia;Public;Very High;8.0;5,040;L;2,174
+University of California, Riverside;2017;271;38.7;United States;Riverside;North America;Public;Very High;17.0;2.034;L;1.497
+Universidad de los Andes;2017;272;38.5;Colombia;Bogotá;Latin America;Private;High;13.0;151;L;1,223
+Friedrich-Alexander-Universität Erlangen-Nürnberg;2017;272;38.5;Germany;Erlangen;Europe;Public;Very High;32.0;4,943;XL;1,107
+University of Strathclyde;2017;272;38.5;United Kingdom;Glasgow;Europe;Public;Very High;13.0;5,397;L;1,532
+Wuhan University;2017;275;38.2;China (Mainland);Wuhan;Asia;Public;Very High;14.0;3,682;XL;3,828
+Queensland University of Technology (QUT);2017;276;38.1;Australia;Brisbane;Oceania;Public;Very High;17.0;6,403;XL;2,028
+North Carolina State University;2017;277;38.0;United States;Raleigh;North America;Public;Very High;15.0;3,156;L;1,944
+Harbin Institute of Technology;2017;278;37.9;China (Mainland);Harbin;Asia;Public;Very High;9.0;2,102;XL;3,215
+Hong Kong Baptist University;2017;278;37.9;Hong Kong SAR;Hong Kong;Asia;Public;Very High;9.0;4,704;M;980
+Universidad Carlos III de Madrid (UC3M);2017;280;37.8;Spain;Madrid;Europe;Public;Very High;9.0;2.110;L;2.119
+Birkbeck, University of London;2017;280;37.8;United Kingdom;London;Europe;Public;Very High;14.0;3.214;M;585
+Linköping University;2017;282;37.7;Sweden;Linköping;Europe;Public;Very High;11.0;2.514;L;1.471
+Mahidol University;2017;283;37.6;Thailand;Nakhon Pathom;Asia;Public;Very High;7.0;1,415;L;3,850
+Universitat Pompeu Fabra (Barcelona);2017;283;37.6;Spain;Barcelona;Europe;Public;Very High;16.0;1,633;L;785
+University College Cork;2017;283;37.6;Ireland;Cork;Europe;Public;High;10.0;3,002;L;1,619
+King Abdulaziz University (KAU);2017;283;37.6;Saudi Arabia;Jeddah;Asia;Public;Very High;8.0;6,821;XL;4,054
+Dalhousie University;2017;283;37.6;Canada;Halifax;North America;Public;Very High;14.0;4,483;L;1,150
+University of South Australia;2017;288;37.4;Australia;Magill;Oceania;Public;Very High;13.0;4.886;L;1.524
+Universiti Teknologi Malaysia ;2017;288;37.4;Malaysia;Skudai;Asia;Public;Very High;11.0;4,956;L;1,869
+University of St.Gallen (HSG);2017;288;37.4;Switzerland;St. Gallen;Europe;Public;Very High;20.0;2.390;M;444
+Indiana University Bloomington;2017;291;37.3;United States;Bloomington;North America;Public;Very High;11.0;3,722;XL;3,837
+University of Ottawa;2017;291;37.3;Canada;Ottawa;North America;Public;Very High;22.0;8,885;XL;1,677
+Novosibirsk State University;2017;291;37.3;Russia;Novosibirsk ;Europe;Public;Very High;6.0;1,623;M;1,218
+Westfälische Wilhelms-Universität Münster ;2017;294;37.2;Germany;Münster;Europe;Public;Very High;10.0;2.845;XL;4.230
+Umea University;2017;294;37.2;Sweden;Umeå;Europe;Public;Very High;7.0;1.186;L;1.966
+University of California, Santa Cruz;2017;296;37.1;United States;Santa Cruz;North America;Public;Very High;18.0;2.130;L;1.045
+Sun Yat-sen University;2017;297;37.0;China (Mainland);Guangzhou;Asia;Public;Very High;8.0;3,127;XL;7,002
+Hiroshima University;2017;297;37.0;Japan;Higashihiroshima City;Asia;Public;Very High;6.0;1.680;L;2.366
+Universität Innsbruck;2017;299;36.9;Austria;Innsbruck;Europe;Public;High;8.0;6,323;L;1,769
+Boston College;2017;299;36.9;United States;Newton;North America;Private;Very High;13.0;1.471;L;1.048
+Rutgers University–New Brunswick;2017;301;36.8;United States;New Brunswick;North America;Public;Very High;9.0;7,965;XL;5,009
+Charles University;2017;302;36.7;Czech Republic;Prague;Europe;Public;Very High;9.0;9,080;XL;5,019
+Universiti Kebangsaan Malaysia (UKM);2017;302;36.7;Malaysia;Bangi;Asia;Public;Very High;6.0;2,410;L;2,829
+Indian Institute of Technology Kanpur (IITK);2017;302;36.7;India;Kanpur;Asia;Public;Very High;13.0;29;M;551
+Politecnico di Torino;2017;305;36.4;Italy;Turin;Europe;Public;Very High;29.0;5.369;XL;1.050
+Curtin University;2017;306;36.3;Australia;Perth;Oceania;Public;Very High;14.0;4,565;L;1,698
+Bauman Moscow State Technical University;2017;306;36.3;Russia;Moscow;Europe;Public;Very High;4.0;2,370;L;4,349
+Universidad Austral;2017;308;36.2;Argentina;Pilar;Latin America;Private;High;7.0;334;S;663
+National Yang Ming University;2017;308;34.4;Taiwan;Taipei City;Asia;Public;Very High;4.0;237;S;965
+National Taiwan Normal University;2017;310;36.0;Taiwan;Taipei City;Asia;Public;Very High;8.0;1.499;M;1.374
+Pontificia Universidad Católica Argentina;2017;310;36.0;Argentina;Buenos Aires;Latin America;Private;Medium;4.0;1,063;L;3,805
+Rensselaer Polytechnic Institute;2017;310;36.0;United States;Troy;North America;Private;Very High;12.0;1.594;M;639
+Indian Institute of Technology Kharagpur (IIT-KGP);2017;313;35.9;India;Kharagpur;Asia;Public;Very High;15.0;27;M;770
+City, University of London;2017;314;35.8;United Kingdom;London;Europe;Public;Very High;16.0;7.362;L;970
+Nankai University;2017;315;35.7;China (Mainland);Tianjin;Asia;Public;Very High;11.0;1.488;XL;2.846
+Tongji University;2017;315;35.7;China (Mainland);Shanghai;Asia;Public;Very High;11.0;5,095;XL;2,785
+Université de Liège;2017;315;35.7;Belgium;Arlon;Europe;Public;Very High;13.0;4.381;L;1.619
+Xi’an Jiaotong University;2017;318;35.6;China (Mainland);Xi'an;Asia;Public;Very High;12.0;2,266;XL;3,729
+Tampere University of Technology ;2017;319;30.0;Finland;Tampere;Europe;Public;Very High;8.0;526;M;665
+Ben-Gurion University of The Negev;2017;320;35.4;Israel;Be'er Sheva;Asia;Public;Very High;15.0;1.755;L;1.060
+Universidade Federal do Rio de Janeiro;2017;321;35.3;Brazil;Rio de Janeiro;Latin America;Public;Very High;11.0;555;XL;3.983
+Universitat Politècnica de Catalunya · BarcelonaTech (UPC);2017;321;35.3;Spain;Barcelona;Europe;Public;Very High;9.0;3,101;L;2,485
+University of Porto;2017;323;35.2;Portugal;Porto;Europe;Public;Very High;14.0;3,783;L;2,028
+University of Waikato;2017;324;35.1;New Zealand;Hamilton ;Oceania;Public;Very High;14.0;2.270;M;595
+Universitas Indonesia;2017;325;35.0;Indonesia;Depok;Asia;Public;High;10.0;1,412;XL;4,210
+University of Victoria (UVic);2017;325;35.0;Canada;Victoria;North America;Public;Very High;26.0;6.135;L;865
+Université de Montpellier;2017;327;34.8;France;Montpellier;Europe;Public;Very High;17.0;6.229;XL;2.464
+Heriot-Watt University;2017;327;34.8;United Kingdom;Edinburgh;Europe;Public;Very High;12.0;3,536;M;806
+Tokyo Medical and Dental University (TMDU);2017;329;34.7;Japan;Tokyo;Asia;Public;Very High;3.0;325;S;930
+University of Lisbon ;2017;330;34.6;Portugal;Lisbon ;Europe;Public;Very High;14.0;8.546;XL;3.389
+Universiti Sains Malaysia (USM);2017;330;34.6;Malaysia;Gelugor;Asia;Public;Very High;8.0;4,198;L;2,249
+Tilburg University;2017;330;34.6;Netherlands;Tilburg;Europe;Public;Very High;15.0;2.189;M;745
+Essex, University of;2017;330;34.6;United Kingdom;Colchester;Europe;Public;Very High;14.0;6.124;L;1.044
+Yeshiva University;2017;330;34.6;United States;New York City;North America;Private;Very High;10.0;467;S;471
+Ewha Womans University;2017;335;34.5;South Korea;Seoul;Asia;Private;High;7.0;2.105;L;2.436
+Griffith University;2017;336;34.4;Australia;Nathan;Oceania;Public;Very High;17.0;5,875;XL;1,918
+Gwangju Institute of Science and Technology (GIST);2017;337;34.3;South Korea;Gwangju;Asia;Public;Very High;10.0;122;S;180
+Università di Padova;2017;338;39.6;Italy;Padua;Europe;Public;Very High;17.0;2,654;XL;2,806
+University of Jyväskylä;2017;338;34.2;Finland;Jyväskylä;Europe;Public;Very High;7.0;339;M;1.573
+Massey University;2017;340;34.1;New Zealand;Palmerston North;Oceania;Public;Very High;9.0;4,836;M;1,209
+James Cook University;2017;340;34.1;Australia;Townsville;Oceania;Public;Very High;11.0;1.169;M;2,940
+University at Buffalo SUNY;2017;342;34.0;United States;Buffalo;North America;Public;Very High;19.0;4.409;L;1.530
+Lincoln University ;2017;343;33.9;New Zealand;Lincoln;Oceania;Public;Very High;9.0;898;S;643
+University of Hawaiʻi at Mānoa;2017;343;33.9;United States;Honolulu;North America;Public;Very High;9.0;1.586;L;1.640
+Brunel University London;2017;345;33.8;United Kingdom;;Europe;Public;Very High;16.0;5.305;L;860
+L.N. Gumilyov Eurasian National University (ENU);2017;345;33.8;Kazakhstan;Nur-Sultan;Asia;Public;Very High;5.0;1.077;L;3.350
+University of Cologne;2017;347;33.6;Germany;Cologne;Europe;Public;Very High;11.0;4,890;XL;2,724
+University of Tartu;2017;347;33.6;Estonia;Tartu;Europe;Public;Very High;7.0;1,400;M;1,605
+University Ulm;2017;347;31.4;Germany;Ulm;Europe;Public;Very High;7.0;1,289;M;1,473
+Moscow Institute of Physics and Technology (MIPT / Moscow Phystech);2017;350;33.4;Russia;Dolgoprudny;Europe;Public;Very High;5.0;1,153;M;1,110
+MGIMO University;2017;350;31.0;Russia;Moscow;Europe;Public;Very High;4.0;1,517;M;1,739
+Universität Konstanz;2017;352;33.2;Germany;Konstanz;Europe;Public;Very High;11.0;1.239;M;1.039
+Universidad de Belgrano;2017;352;33.2;Argentina;Buenos Aires;Latin America;Private;Medium;6.0;758;M;810
+Belarusian State University;2017;354;33.0;Belarus;Minsk;Europe;Public;Very High;5.0;4,264;L;4,173
+Deakin University;2017;355;32.9;Australia;Geelong;Oceania;Public;Very High;23.0;10,684;XL;1,851
+Université Paris-Dauphine, Université PSL;2017;356;33.4;France;Paris;Europe;Public;High;12.0;2,039;M;697
+Aston University;2017;358;32.7;United Kingdom;Birmingham;Europe;Public;Very High;16.0;1.719;M;730
+University of Witwatersrand;2017;359;32.6;South Africa;Johannesburg;Africa;Public;Very High;15.0;1.885;L;1.626
+Oxford Brookes University;2017;359;32.6;United Kingdom;;Europe;Public;High;15.0;3.439;L;1,471
+Virginia Polytechnic Institute and State University;2017;361;32.4;United States;Blacksburg;North America;Public;Very High;12.0;4.477;XL;2.802
+Northeastern University;2017;361;32.4;United States;Boston;North America;Private;Very High;12.0;7.595;L;1.723
+George Washington University;2017;363;32.3;United States;Ashburn;North America;Private;Very High;11.0;4.024;L;2.016
+Universität Jena;2017;363;32.3;Germany;Jena;Europe;Public;Very High;4.0;2.307;L;3.974
+The American University in Cairo;2017;365;32.2;Egypt;Cairo;Africa;Private;High;10.0;213;M;578
+University of Warsaw ;2017;366;32.1;Poland;Warsaw;Europe;Public;Very High;10.0;2,892;XL;3,658
+Universidade Nova de Lisboa;2017;366;32.1;Portugal;Lisbon;Europe;Public;Very High;12.0;4.427;L;1.720
+University of Kent;2017;366;32.1;United Kingdom;Paris;Europe;Public;Very High;13.0;3.515;L;4,000
+Kobe University;2017;369;32.0;Japan;Kobe City;Asia;Public;Very High;8.0;1.216;L;1.986
+University of Milan;2017;370;31.9;Italy;Milan;Europe;Public;Very High;20.0;3,269;XL;2,516
+University of Tasmania;2017;370;31.9;Australia;Hobart;Oceania;Public;Very High;13.0;5,260;L;982
+Université Laval;2017;372;31.8;Canada;Québec;North America;Public;Very High;11.0;3.673;L;2.290
+University of Kansas;2017;373;31.7;United States;Lawrence;North America;Public;Very High;7.0;2.014;L;3.357
+University of the Philippines;2017;374;31.5;Philippines;Quezon City;Asia;Public;High;9.0;292;XL;4.480
+Aalborg University;2017;374;31.5;Denmark;Aalborg;Europe;Public;Very High;10.0;2.474;L;1.716
+University of Colorado, Denver ;2017;374;31.5;United States;Denver;North America;Public;Very High;3.0;1.274;L;5.319
+Université Paris Descartes;2017;377;31.5;France;Paris ;Europe;Public;Very High;17.0;11,387;XL;3,755
+Tomsk State University;2017;377;31.4;Russia;Tomsk;Europe;Public;Very High;5.0;2,828;M;1,742
+University of Tromsø The Arctic University of Norway;2017;377;31.4;Norway;Tromsø;Europe;Public;High;7.0;1.134;L;2.107
+Dublin City University;2017;380;31.3;Ireland;Dublin;Europe;Public;High;11.0;1.415;L;1.257
+University of Texas Dallas;2017;380;31.3;United States;Richardson;North America;Public;Very High;22.0;4.828;L;1.140
+University of Eastern Finland;2017;382;31.2;Finland;Kuopio;Europe;Public;Very High;10.0;669;M;1.207
+V. N. Karazin Kharkiv National University;2017;382;31.2;Ukraine;Kharkiv;Europe;Public;High;8.0;3.954;L;2.091
+American University;2017;384;31.1;United States;Washington D.C.;North America;Private;High;11.0;1.305;M;1.091
+University of Stirling;2017;385;31.0;United Kingdom;Stirling;Europe;Public;Very High;14.0;2.563;M;728
+Colorado State University;2017;386;30.9;United States;Fort Collins;North America;Public;Very High;8.0;1.547;L;3.115
+Chung-Ang University (CAU);2017;386;30.9;South Korea;Seoul;Asia;Private;Very High;8.0;3.099;L;2.650
+La Trobe University;2017;386;30.9;Australia;Melbourne;Oceania;Public;Very High;20.0;9.456;L;1.252
+Beijing Institute of Technology;2017;389;30.8;China (Mainland);Beijing;Asia;Public;Very High;11.0;2.115;XL;2.811
+Stony Brook University, State University of New York;2017;390;30.7;United States;Stony Brook;North America;Public;Very High;11.0;6.198;L;2.316
+Swansea University;2017;390;30.7;United Kingdom;Swansea;Europe;Public;High;11.0;3.641;L;3290
+University of Southern Denmark (SDU);2017;390;30.7;Denmark;Odense;Europe;Public;Very High;10.0;2,511;L;1,760
+University of Iowa;2017;393;30.6;United States;Iowa City;North America;Public;Very High;10.0;2.049;L;2.924
+Qatar University;2017;393;30.6;Qatar;Doha;Asia;Public;Very High;8.0;3,197;M;1,163
+Stellenbosch University;2017;395;30.5;South Africa;Stellenbosch;Africa;Public;Very High;25.0;1.776;L;934
+Washington State University;2017;395;30.5;United States;Pullman;North America;Public;Very High;14.0;1.731;L;1.935
+National Sun Yat-sen University;2017;395;30.5;Taiwan;Kaohsiung City;Asia;Public;Very High;11.0;757;M;735
+National Technical University of Athens;2017;395;30.5;Greece;Athens;Europe;Public;Very High;20.0;846;L;689
+Indian Institute of Technology Roorkee (IITR);2017;399;30.4;India;Roorkee;Asia;Public;Very High;17.0;202;M;499
+Leibniz University Hannover;2017;400;30.3;Germany;Hanover;Europe;Public;Very High;10.0;4.157;L;2.540
